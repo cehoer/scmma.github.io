@@ -32,7 +32,7 @@ header {
 .image {
     grid-column: 1/ 10;
     grid-row: 1 / 5;
-    background-image: url(./background.jpeg);
+    background-image: url(background.jpeg);
     background-repeat: no-repeat;  
 }
 
